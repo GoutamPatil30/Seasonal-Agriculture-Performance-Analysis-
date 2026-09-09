@@ -1,0 +1,38 @@
+# Seasonal Agriculture Performance Analysis
+
+## Overview
+
+A data analytics project that analyzes agricultural performance across **Kharif, Rabi, and Zaid** seasons.
+
+The project explores environmental conditions, resource usage, crop performance, and economic factors affecting agricultural outcomes.
+
+## Objectives
+
+- Compare agricultural performance across seasons.
+- Analyze yield, production, revenue, cost, and profit.
+- Study environmental and resource-related factors.
+- Compare regional and crop-wise performance.
+- Apply statistical analysis to identify patterns.
+- Provide data-driven recommendations.
+
+## Dataset
+
+The dataset contains **4,000 records and 28 variables**, covering crop and season information, environmental conditions, resource usage, production, and economic performance.
+
+## Tools & Technologies
+
+**Python | Pandas | NumPy | Matplotlib | Seaborn | SciPy | Statsmodels | Google Colab**
+
+## Key Findings
+
+- Kharif showed the strongest overall seasonal performance.
+- Zaid recorded the lowest average profit and water efficiency.
+- Seasonal profit differences were statistically significant.
+- Regional and crop-wise performance varied considerably.
+
+## Project Files
+
+- 📓 Jupyter Notebook
+- 📊 Dataset
+- 📽️ Project Presentation
+- 📄 Problem Statement
